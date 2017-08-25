@@ -1,4 +1,24 @@
-button {
-  padding: 40px 40px;
-  background-color: blue;
+body {
+  background-color: #232323;
+}
+
+.square {
+  margin: 1.66%;
+  width: 30%;
+  background: red;
+  padding-bottom: 30%;
+  float: left;
+}
+
+#container{
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: ghostwhite;
+}
+
+span {
+  color: ghostwhite;
 }
