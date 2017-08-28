@@ -60,7 +60,7 @@ resetButton.addEventListener("click", function(){
     squares[i].style.background = colors[i];
   }
   //change h1 back to default color
-  h1.style.backgroundColor = "#232323";
+  h1.style.backgroundColor = "steelblue";
   //change button text back to New colors
   resetButton.textContent = "New Colors";
 });
